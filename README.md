@@ -19,8 +19,9 @@
 5. **Buscar libros por idioma**: Permite listar los libros por su idioma (ES, EN, FR, PT).
 6. **Top 10 libros más descargados**: Muestra los 10 libros más descargados.
 7. **Libro más descargado y menos descargado**: Muestra el libro más descargado y el menos descargado.
+0.**Salir**: Finaliza la Ejecucion del programa.
 
-## Requisitos
+## Pre-Requisitos
 
 - Java 17
 - Spring Boot 3.2.4
